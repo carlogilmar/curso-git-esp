@@ -4,6 +4,20 @@
 
 *Dirigido a personas con conocimiento básico de git.*
 
+### Agenda
+
+1. [Tooling para desarrollo de software](topics/chapter1.md)
+2. [Nociones básicas](topics/chapter2.md)
+3. [Comandos prácticos](topics/chapter3.md)
+4. [Manipulación de un repositorio](topics/chapter4.md)
+5. [Repositorios Remotos: GitHub](topics/chapter5.md)
+6. [Repositorios Remotos Open Source](topics/chapter6.md)
+7. [Branching](topics/chapter7.md)
+8. [Git Tooling](topics/chapter8.md)
+9. [Git Workflows](topics/chapter9.md)
+10. [Reestructuración de un repositorio](topics/chapter10.md)
+11. [Automatización](topics/chapter11.md)
+
 ![](assets/git.jpg)
 
 ### Temario
