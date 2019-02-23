@@ -11,11 +11,11 @@ Conocer los elementos esenciales del control de versiones mediante el uso de git
 3. [Comandos prácticos](topics/chapter_3.md)
 4. [Manipulación de un repositorio](topics/chapter_4.md)
 5. [Repositorios Remotos: GitHub](topics/chapter_5.md)
-6. [Repositorios Remotos Open Source](topics/chapter_6.md)
-7. [Branching](topics/chapter_7.md)
-8. [Git Tooling](topics/chapter_8.md)
-9. [Git Workflows](topics/chapter_9.md)
-10. [Reestructuración de un repositorio](topics/chaptero_10.md)
+6. [Branching](topics/chapter_7.md)
+7. [Git Workflows](topics/chapter_9.md)
+8. [Reestructuración de un repositorio](topics/chapter_10.md)
+9. [Git Tooling](topics/chapter_8.md)
+10. [Repositorios Remotos Open Source](topics/chapter_6.md)
 11. [Automatización](topics/chapter_11.md)
 
 ![](assets/git.jpg)
@@ -67,35 +67,34 @@ Conocer los elementos esenciales del control de versiones mediante el uso de git
 - git pull
 - Clonar un repositorio
 
-#### 6. Repositorios Remotos Open Source
-
-- Gogs
-- Gitea
-
-#### 7. Branching
+#### 6. Branching
 
 - Crear un branch
 - Operaciones sobre un branch
 - git merge
-- git rebase
 - Abortar operaciones
 
-#### 8. Git Tooling
-
-- gitk
-- Gourse
-- git stats
-
-#### 9. Git Workflows
+#### 7. Git Workflows
 
 - Single flow
 - GitHub Workflow
 - Feature branch
 - Git flow
 
-#### 10. Reestructuración de un repositorio
+#### 8. Reestructuración de un repositorio
 
 - git rebase
+
+#### 9. Git Tooling
+
+- gitk
+- Gourse
+- git stats
+
+#### 10. Repositorios Remotos Open Source
+
+- Gogs
+- Gitea
 
 #### 11. Automatización
 
@@ -104,4 +103,4 @@ Conocer los elementos esenciales del control de versiones mediante el uso de git
 
 ## Referencias y material de apoyo
 
-> TOD
+> TODO
