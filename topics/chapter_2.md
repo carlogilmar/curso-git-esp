@@ -162,6 +162,8 @@ $ git checkout -- archivo_en_stage
 $ git commit -m "descripción breve"
 ```
 
+- `-m` esta opción habilita la descripción breve, sin ella se abrirá el editor por defecto
+
 #### Ver el log del local repository
 ```
 $ git log

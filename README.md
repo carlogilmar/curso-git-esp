@@ -47,7 +47,6 @@ Conocer los elementos esenciales del control de versiones mediante el uso de git
 - git diff
 - git checkout
 - git stash
-- git log
 - git reset
 - Reescribir último commit
 - Ignorar archivos
