@@ -1,4 +1,4 @@
-#Nociones básicas
+# Nociones básicas
 
 ### Creación de un repositorio
 ### Áreas de Git
