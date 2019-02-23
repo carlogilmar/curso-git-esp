@@ -1,10 +1,12 @@
 ## Curso de Git
 
-> OBJETIVO: Conocer los elementos esenciales del control de versiones mediante el uso de git para proyectos de software de tal forma que los asistentes cuenten con los conocimientos suficientes para comenzar a usarlo en su día a día. 
+> OBJETIVO: Conocer los elementos esenciales del control de versiones mediante el uso de git para proyectos de software de tal forma que los asistentes cuenten con los conocimientos suficientes para comenzar a usarlo en su día a día.
 
 *Dirigido a personas con conocimiento básico de git.*
 
-### Temario 
+![](assets/git.jpg)
+
+### Temario
 
 #### 1. Tooling para desarrollo de software
 
@@ -13,13 +15,13 @@
 - Comandos básicos
 - Multiplexor de ventanas
 - Instalación y configuración de Git
-- Git GUI 
+- Git GUI
 - Plugins para editores de texto ( vim, visual studio, y sublime text )
 
 #### 2. Nociones básicas
 
-- Creación de un repositorio 
-- Áreas de Git 
+- Creación de un repositorio
+- Áreas de Git
 - DAG y Git Objects
 - Stage Area ( add )
 - Local repository ( commit )
@@ -43,7 +45,7 @@
 - git show
 - git blame
 
-#### 5. Repositorios Remotos: GitHub 
+#### 5. Repositorios Remotos: GitHub
 
 - Creación de cuenta de GitHub
 - Áreas de git
@@ -62,10 +64,10 @@
 - Crear un branch
 - Operaciones sobre un branch
 - git merge
-- git rebase 
+- git rebase
 - Abortar operaciones
 
-#### 8. Git Tooling 
+#### 8. Git Tooling
 
 - gitk
 - Gourse
@@ -82,7 +84,7 @@
 
 - git rebase
 
-#### 11. Automatización 
+#### 11. Automatización
 
 - git bisect
-- git hooks 
+- git hooks
