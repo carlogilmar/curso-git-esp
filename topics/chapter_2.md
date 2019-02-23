@@ -6,7 +6,6 @@
 $ mkdir my_project
 
 $ git init
-
 Inicializado repositorio Git vacío en /Users/carlogilmar/Desktop/prueba/.git/
 ```
 
@@ -17,7 +16,7 @@ Inicializado repositorio Git vacío en /Users/carlogilmar/Desktop/prueba/.git/
 3. Local Repository
 4. Remote Repository
 
-![](assets/chapter2_1.png)
+![](../assets/chapter2_1.png)
 
 ### DAG y Git Objects
 ### Stage Area ( add )
