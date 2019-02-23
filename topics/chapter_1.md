@@ -1,4 +1,4 @@
-## 1. Tooling para desarrollo de software
+#Tooling para desarrollo de software
 
 ### Shell de *Unix y tipos de shell
 
