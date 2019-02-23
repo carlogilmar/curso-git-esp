@@ -112,7 +112,7 @@ Con este comando será posible deshacer commits previamente hechos.
 $ git reset HEAD~1
 ```
 
-- HEAD~1 es la referencia al último commit realizado (HEAD~n, n=número de commits)
+- HEAD-1 es la referencia al último commit realizado (HEAD-n, n=número de commits)
 
 Con la opción `--hard` se descartaran los cambios realizados
 
