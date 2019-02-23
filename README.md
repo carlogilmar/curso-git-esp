@@ -1,8 +1,8 @@
 ## Curso de Git
 
-> OBJETIVO: Conocer los elementos esenciales del control de versiones mediante el uso de git para proyectos de software de tal forma que los asistentes cuenten con los conocimientos suficientes para comenzar a usarlo en su día a día.
-
-*Dirigido a personas con conocimiento básico de git.*
+```
+Conocer los elementos esenciales del control de versiones mediante el uso de git para proyectos de software de tal forma que los asistentes cuenten con los conocimientos suficientes para comenzar a usarlo en su día a día.
+```
 
 ### Agenda
 
