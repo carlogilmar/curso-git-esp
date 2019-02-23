@@ -48,15 +48,19 @@ VIM
 
 #### Agregar usuario y correo
 
-> git config --global user.name "carlogilmar"
+```
+git config --global user.name "carlogilmar"
 
-> git config --global user.email "carlo@makingdevs.com"
+git config --global user.email "carlo@makingdevs.com"
+```
 
 #### Comprobar configuración
 
-> git config user.name
+```
+git config user.name
 
-> git config user.email
+git config user.email
+```
 
 *Se puede comprobar también en el archivo $HOME/.gitconfig*
 
