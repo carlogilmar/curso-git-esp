@@ -31,12 +31,15 @@
 
 #### 2. Nociones básicas
 
+- Sobre git...
 - Creación de un repositorio
-- Áreas de Git
 - DAG y Git Objects
+- Áreas de Git
+- Working Directory
 - Stage Area ( add )
 - Local repository ( commit )
 - Log de git
+- Resumen
 
 #### 3. Comandos prácticos
 

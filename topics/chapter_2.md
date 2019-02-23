@@ -19,6 +19,8 @@ $ git init
 Inicializado repositorio Git vacío en /Users/carlogilmar/Desktop/prueba/.git/
 ```
 
+Para eliminar el repositorio de git de un directorio sólo basta con borrar la carpeta *.git*
+
 ### DAG y Git Objects
 
 ```
@@ -131,7 +133,36 @@ Date:   Fri Feb 22 23:12:26 2019 -0600
     Agregando archivo readme.md
 ```
 
+## Resumen de comandos básicos
 
+#### Inicializar repositorio de git
+```
+$ git init
+```
 
+#### Ver el status del repositorio
+```
+$ git status
+```
 
+#### Agregar uno o varios archivos del working directory a stage
+```
+$ git add nombre_del_archivo
 
+$ git add archivo1 archivo2 archivo3 archivo4
+```
+
+#### Regresar un archivo de stage al working directory
+```
+$ git checkout -- archivo_en_stage
+```
+
+#### Agregar un archivo de stage a local repository
+```
+$ git commit -m "descripción breve"
+```
+
+#### Ver el log del local repository
+```
+$ git log
+```
