@@ -6,7 +6,9 @@
 * Áreas de git
 * Sincronizar un repositorio local en un repositorio remoto
 * Git para repositorios remotos
-* Submódulos
+* Clonar repositorios
+* Fork a repositorios remotos
+* Sub-módulos
 
 ---
 
@@ -45,7 +47,7 @@
 
 ### Sincronizar un repositorio local en un repositorio remoto
 
-Crear un nuevo repositorio en GitHub![](/assets/github4.png)Al crearlo nos dará las siguientes opciones:![](/assets/github5.png) 
+Crear un nuevo repositorio en GitHub![](/assets/github4.png)Al crearlo nos dará las siguientes opciones:![](/assets/github5.png)
 
 GitHub nos ofrece las opciones siguientes:
 
@@ -53,14 +55,14 @@ GitHub nos ofrece las opciones siguientes:
 * or push an existing repository from the command line
 * or import code from another repository
 
-Por ahora solo necesitamos incluir la URL del repositorio remoto creado anteriormente en nuestro proyecto local 
+Por ahora solo necesitamos incluir la URL del repositorio remoto creado anteriormente en nuestro proyecto local
 
 * **URL por SSH**: necesitaremos generar y dar de alta nuestra llave SSH en GitHub para poder usar esta opción
 * **URL por HTTPS**: nos pedirá una confirmación de usuario y contraseña de GitHub cada vez que efectuemos alguna operación.
 
 #### SSH
 
-[Guía para dar de alta llave ssh ](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 
+[Guía para dar de alta llave ssh ](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 Crear la llave si no existe, y dar de alta en **Settings / New SSH Key**![](/assets/github6.png)
 
@@ -75,21 +77,20 @@ $ git remote add origin <url-del-repositorio-remoto>
 
 Este comando consta de 2 directivas: **origin** y la **url del repositorio remoto. **
 
-**Origin** será el tag con el que identificaremos la url, y es un parámetro obligatorio. Esto quiere decir que es posible agregar múltiples urls de diferentes repositorios remotos en diferentes plataformas. 
+**Origin** será el tag con el que identificaremos la url, y es un parámetro obligatorio. Esto quiere decir que es posible agregar múltiples urls de diferentes repositorios remotos en diferentes plataformas.
 
-3. Comprobar la url
+1. Comprobar la url
 
 ```
 $ git remote -v
 
-origin	git@github.com:carlogilmar/prueba.git (fetch)
-origin	git@github.com:carlogilmar/prueba.git (push)
-
+origin    git@github.com:carlogilmar/prueba.git (fetch)
+origin    git@github.com:carlogilmar/prueba.git (push)
 ```
 
 ### Git para repositorios remotos![](/assets/github9.png)
 
-#### git push 
+#### git push
 
 Para enviar los cambios realizados en el repositorio local al repositorio remoto bastará con realizar un PUSH
 
@@ -131,6 +132,38 @@ Desde bitbucket.org:ebcdesarrollo/broker-oracle
  * [nueva rama]      feature/BO-134 -> origin/feature/BO-134
    ea37041..7e4e3c1  master         -> origin/master
 ```
+
+### Clonar repositorios 
+
+Hasta este punto hemos visto cómo sincronizar un proyecto local versionado con git a uno remoto, pero también podemos descargar un proyecto remoto para comenzar a operarlo, para ello usaremos la URL del repositorio remoto, recordando las diferencias entre hacerlo por HTTPS o SSH.
+
+```
+$ git clone <url-del-repositorio-remoto>
+```
+
+Esto descargará automáticamente el repositorio. 
+
+### Fork 
+
+Al ver un proyecto público en GitHub ajeno a nuestro perfil, podemos ver las siguientes opciones:![](/assets/github10.png)El realizar un FORK de un proyecto significa crear una copia exacta en nuestro perfil:![](/assets/github12.png)
+
+### Submódulos
+
+Un repositorio de git puede tener referencias a otros repositorios, esto es común cuando se necesita enlazar a varios proyectos en uno solo.
+
+Dentro de nuestro proyecto bastará con hacer lo siguiente:
+
+```
+$ git submodule add <url-del-repositorio-remoto> <nombre-de-la-carpeta-en-que-se-descargará>
+```
+
+Esta referencia se guardará en el archivo **.gitmodules** el cual deberá estar bajo el control de versiones. Se pueden agregar los repositorios remotos que se deseen como sub-módulos.
+
+Al subir los cambios al repositorio remoto aparecerá la carpeta como link al repositorio remoto que corresponde al submódulo:![](/assets/github13.png)
+
+
+
+
 
 
 

@@ -42,12 +42,13 @@
 
 #### 5. Repositorios Remotos: GitHub
 
-* Creación de cuenta de GitHub
+* Sobre GitHub
 * Áreas de git
 * Sincronizar un repositorio local en un repositorio remoto
-* git push
-* git pull
-* Clonar un repositorio
+* Git para repositorios remotos
+* Clonar repositorios
+* Fork a repositorios remotos
+* Sub-módulos
 
 #### 6. Branching
 
