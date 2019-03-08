@@ -4,7 +4,7 @@
 2. [Nociones básicas](/chapter2.md)
 3. [Comandos prácticos](/chapter3.md)
 4. [Manipulación de un repositorio](/chapter4.md)
-5. Repositorios Remotos: GitHub
+5. [Repositorios Remotos: GitHub](/chapter5.md)
 6. Branching
 7. Git Workflows
 8. Reestructuración de un repositorio
