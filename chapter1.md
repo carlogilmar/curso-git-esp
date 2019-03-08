@@ -1,4 +1,4 @@
-# Tooling para desarrollo de software
+# Tooling para desarrollo de software 
 
 ### Shell de \*Unix y tipos de shell
 
@@ -55,7 +55,6 @@ _Última Versión de Git: 2.20.1_
 git config --global user.name "carlogilmar"
 
 git config --global user.email "carlo@makingdevs.com"
-
 ```
 
 #### Comprobar configuración
@@ -64,7 +63,6 @@ git config --global user.email "carlo@makingdevs.com"
 git config user.name
 
 git config user.email
-
 ```
 
 _Se puede comprobar también en el archivo **$HOME/.gitconfig**_
