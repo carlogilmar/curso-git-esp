@@ -1,4 +1,13 @@
-# Tooling para desarrollo de software 
+# Herramientas para desarrollo de software
+
+Contenido:
+
+* Shell de \*Unix y tipos de shell
+* Tooling
+* Editor de texto
+* Instalación y configuración de Git
+
+---
 
 ### Shell de \*Unix y tipos de shell
 

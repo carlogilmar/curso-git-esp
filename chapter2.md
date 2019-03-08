@@ -1,15 +1,15 @@
 # Nociones básicas de git
 
-**Contenido:**
+Contenido:
 
-* **Sobre git**
-* **Creación de un repositorio**
-* **DAG y Git Objects**
-* **Áreas de Git**
-* **Working Directory**
-* **Stage Area \( add \)**
-* **Local repository \( commit \)**
-* **Log de git**
+* Sobre git
+* Creación de un repositorio
+* DAG y Git Objects
+* Áreas de Git
+* Working Directory
+* Stage Area \( add \)
+* Local repository \( commit \)
+* Log de git
 
 ---
 
