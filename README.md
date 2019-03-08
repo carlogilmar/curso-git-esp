@@ -91,6 +91,7 @@ Conocer los elementos esenciales del control de versiones mediante el uso de git
 - Gourse
 - git stats
 
+
 #### 10. Repositorios Remotos Open Source
 
 - Gogs
@@ -103,4 +104,4 @@ Conocer los elementos esenciales del control de versiones mediante el uso de git
 
 ## Referencias y material de apoyo
 
-> TODO
+Sin referencias ni material de apoyo.
