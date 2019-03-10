@@ -13,7 +13,7 @@ Contenido:
 
 Este flujo de trabajo con git es muy útil cuando se trabaja individualmente, consta de un sólo branch.![](/assets/wf1.png)
 
-### GitHub Workflow 
+### GitHub Workflow
 
 Este flujo de trabajo considera en crear un branch para agregar n cambios y gestionarlos mediante GitHub.
 
@@ -27,8 +27,7 @@ Este flujo de trabajo considera en crear un branch para agregar n cambios y gest
 
 ### Abrir pull request![](/assets/gw2.png)
 
-La pestaña de Pull Request tendrá los PR realizados![](/assets/gw3.png)Ahi mismo se podrá mezclar el PR ![](/assets/gw4.png)  
-
+La pestaña de Pull Request tendrá los PR realizados![](/assets/gw3.png)Ahi mismo se podrá mezclar el PR ![](/assets/gw4.png)
 
 ### Feature Branch
 
@@ -65,7 +64,18 @@ Asignación de issues![](/assets/gw8.png)![](/assets/gw9.png)Ejemplo del log de 
 * 742d97f  hace 5 meses carlogilmar  #1 Adding deploy config
 ```
 
-### TODO: Git Flow
+### Git Flow
 
+1. Se consideran 2 branches principales
+   1. **Master**: guardará el histórico de las versiones
+   2. **Develop**: branch de integración 
+2. Del branch **develop** nacerán los **feature-branch **que serán integrados finalmente a **develop**
+3. Para preparar el despliegue de un release se hará un **release-branch, **que nacerá de **develop **e integrará los ajustes y cambios necesarios para preparar la versión. Finalmente se integrará a **master** y a **develop**
+4. Cuando exista la necesidad de ajustar un estado no deseado se creará un **hotfix-branch, **este nacerá de **master, **llevará los cambios y  ajustes y se integrará a master y develop.
 
+### **Branches principales**![](/assets/flow1.png)
+
+### **Feature Branch**![](/assets/flow2.png)Release Branch![](/assets/flow3.png)Hotfix-branch![](/assets/flow4.png)
+
+Ilustraciones tomadas de [BitBucket](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
