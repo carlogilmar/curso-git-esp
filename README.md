@@ -66,18 +66,15 @@
 
 #### 8. Reestructuración de un repositorio
 
-* git rebase
+* Rebase de branches
+* Rebase por commits
+* Cherry-pick
+* Revert
+* Reflog
 
 #### 9. Git Tooling
 
-* gitk
-* Gourse
-* git stats
-
 #### 10. Repositorios Remotos Open Source
-
-* Gogs
-* Gitea
 
 #### 11. Automatización
 
