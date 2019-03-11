@@ -1,6 +1,14 @@
-# Curso de Git
+# Taller de Git
 
 ##### Marzo 2019
+
+Para este taller de Git usaremos lo siguiente:
+
+* Versión reciente de git \(2.20.1\)
+* Cuenta de GitHub
+* Editor de texto
+* [GoHugo](https://gohugo.io/)
+* [Repositorio de trabajo](https://github.com/carlogilmar/dummy_blog_project)
 
 ### Temario
 
