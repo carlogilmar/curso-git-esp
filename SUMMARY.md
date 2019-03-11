@@ -7,10 +7,10 @@
 5. [Repositorios Remotos: GitHub](/chapter5.md)
 6. [Branching](/chapter6.md)
 7. [Git Workflows](/chapter7.md)
-8. Reestructuración de un repositorio
-9. Git Tooling
-10. Repositorios Remotos Open Source
-11. Automatización
+8. [Reestructuración de un branch](/chapter8.md)
+9. [Git Tools](/chapter9.md)
+10. [Repositorios Remotos Open Source](/chapter10.md)
+11. [Automatización](/chapter11.md)
 
 
 

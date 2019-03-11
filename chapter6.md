@@ -19,7 +19,7 @@ master
 Listar los branches creados en el proyecto:
 
 ```
-$ git branch 
+$ git branch
 ```
 
 Listar todos los branches incluyendo los remotos
@@ -36,6 +36,12 @@ Crear un branch nuevo
 
 ```
 $ git branch <nombre-del-branch>
+```
+
+Borrar un branch
+
+```
+$ git branch -D <branch>
 ```
 
 Posicionarse en un branch existente:
@@ -63,6 +69,4 @@ Este comando unirá los cambios del branch que se indica sobre el branch donde s
 Se creará un nuevo commit como referencia de que se esta mezclando otro branch.
 
 Si mezclamos el branch3 de nuevo obtendremos un sólo branch \(**master**\) con todos los cambios en los branches creados:![](/assets/branch7.png)
-
-
 
