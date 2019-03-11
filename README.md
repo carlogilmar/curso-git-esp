@@ -1,6 +1,6 @@
-# Taller de Git
+# ![](/assets/import.png)
 
-##### Marzo 2019
+# Marzo 2019
 
 Para este taller de Git usaremos lo siguiente:
 
