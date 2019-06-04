@@ -1,14 +1,16 @@
-# git-course
-
-Curso de Git con pensamiento visual
+# Git Course with Visual Thinking
 
 [Slides](https://drive.google.com/drive/folders/1mOsxll7Kuyx7oQ-oxfMV0kgplu-Ge00X?usp=sharing) 
 
-Summary
+### Goals
+  - Audience
+  - Goals step by step
 
-Releases
+### Summary
 
-Resources
+### Releases
+
+### Resources
 
 - [@frontendmasters Git in depth](https://frontendmasters.com/courses/git-in-depth/)
-- [@gittraining Git training] (http://git.training/courses/)
+- [@gittraining Git training](http://git.training/courses/)
