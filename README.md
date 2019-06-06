@@ -10,9 +10,21 @@
 
 ### Summary
 
-Preliminary
+#### The learning experience
+
+- The learning experience
+- Requirements
+- Course overview
+
+#### Why learn git?
 
 - Git for everyone
+- Git for your organization
+- What git can do? (repositories, versions, artifacts, comparison, collaboration, accountability)
+- Git study cases
+
+#### Preliminary
+
 - What is a Version Control System (VCS)?
 - Version Control Systems
 - Short History about git
@@ -22,19 +34,15 @@ Preliminary
 - Git states
 - Git areas
  
-- Git for your organization
-- What git can do? (repositories, versions, artifacts, comparison, collaboration, accountability)
-- Git study cases
-
-- The learning experience
-- Requirements
-- Course overview
+#### Requirements for start to learn git 
 
 - What is the terminal?
 - Why command line?
 - Text editor
 - File system navigation using the terminal
 - Manipulating files and folders
+
+## TODO: Desarrollar a más profundidad los siguientes temas
 
 Git Basics
 
