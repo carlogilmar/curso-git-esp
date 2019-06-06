@@ -35,8 +35,11 @@
 - [ ] What is the terminal?
 - [ ] Why command line?
 - [ ] Text editor
-- [ ] File system navigation using the terminal
-- [ ] Manipulating files and folders
+- [ ] The command line
+- [ ] Shells
+- [ ] Navigation 
+- [ ] List files
+- [ ] Change directory
 
 ## TODO: Desarrollar a más profundidad los siguientes temas
 
