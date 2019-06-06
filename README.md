@@ -10,13 +10,26 @@
 
 ### Summary
 
-Introduction
-- Audience for this
-- What is a version control? (VCS what it is, benefits, why git, key features)
-- What git can do? (repositories, versions, artifacts, comparison, collaboration, accountability)
-- Git history
-- Git study cases
+Preliminary
+
+- Git for everyone
+- What is a Version Control System (VCS)?
+- Version Control Systems
+- Short History about git
+- The stupid content tracker
+- How git works
+- Git fundamentals
+- Git states
+- Git areas
+ 
 - Git for your organization
+- What git can do? (repositories, versions, artifacts, comparison, collaboration, accountability)
+- Git study cases
+
+- The learning experience
+- Requirements
+- Course overview
+
 - What is the terminal?
 - Why command line?
 - Text editor
