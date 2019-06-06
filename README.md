@@ -4,43 +4,39 @@
 
 [Slides](https://drive.google.com/drive/folders/1mOsxll7Kuyx7oQ-oxfMV0kgplu-Ge00X?usp=sharing) 
 
-### Goals
-  - Audience
-  - Goals step by step
-
 ### Summary
 
 #### The learning experience
 
-- The learning experience
-- Requirements
-- Course overview
+- [ ] The learning experience
+- [ ] Requirements
 
 #### Why learn git?
 
-- Git for everyone
-- Git for your organization
-- What git can do? (repositories, versions, artifacts, comparison, collaboration, accountability)
-- Git study cases
+- [ ] Git for everyone
+- [ ] Git for your organization
+- [ ] What git can do?
+- [ ] Git study cases
 
 #### Preliminary
 
-- What is a Version Control System (VCS)?
-- Version Control Systems
-- Short History about git
-- The stupid content tracker
-- How git works
-- Git fundamentals
-- Git states
-- Git areas
+- [ ] What is a Version Control System (VCS)?
+- [ ] Version Control Systems
+- [ ] Short History about git
+- [ ] The stupid content tracker
+- [ ] The git project
+- [ ] How git works
+- [ ] Git fundamentals
+- [ ] Git states
+- [ ] Git areas
  
 #### Requirements for start to learn git 
 
-- What is the terminal?
-- Why command line?
-- Text editor
-- File system navigation using the terminal
-- Manipulating files and folders
+- [ ] What is the terminal?
+- [ ] Why command line?
+- [ ] Text editor
+- [ ] File system navigation using the terminal
+- [ ] Manipulating files and folders
 
 ## TODO: Desarrollar a más profundidad los siguientes temas
 
