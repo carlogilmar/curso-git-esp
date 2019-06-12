@@ -8,38 +8,35 @@
 
 #### The learning experience
 
-- [ ] The learning experience
-- [ ] Requirements
+- [x] The learning experience
+- [x] Requirements
 
 #### Why learn git?
 
-- [ ] Git for everyone
-- [ ] Git for your organization
-- [ ] What git can do?
-- [ ] Git study cases
+- [x] Git for everyone
+- [x] Git for your organization
+- [x] What git can do?
+- [x] Study cases
 
 #### Preliminary
 
-- [ ] What is a Version Control System (VCS)?
-- [ ] Version Control Systems
-- [ ] Short History about git
-- [ ] The stupid content tracker
-- [ ] The git project
-- [ ] How git works
-- [ ] Git fundamentals
-- [ ] Git states
-- [ ] Git areas
+- [x] What is a Version Control System (VCS)?
+- [x] Version Control Systems
+- [x] About git
+- [x] The stupid content tracker
+- [x] How git works
+- [x] What git is?
+- [x] Git states
+- [x] Git areas
  
 #### Requirements for start to learn git 
 
-- [ ] What is the terminal?
-- [ ] Why command line?
-- [ ] Text editor
-- [ ] The command line
-- [ ] Shells
-- [ ] Navigation 
-- [ ] List files
-- [ ] Change directory
+- [x] Text editor
+- [x] Command line
+- [x] Shells
+- [x] Navigation 
+- [x] List files
+- [x] Change directory
 
 ## TODO: Desarrollar a más profundidad los siguientes temas
 
