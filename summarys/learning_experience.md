@@ -1,6 +1,4 @@
-# Learning Experience Methodology
-
-[Learning Experience Course Design Slides](https://docs.google.com/presentation/d/1pYdHqfeKCkD6QbQJjOjmkhTnGoAdoWLNN01sDiTn7ME/edit?usp=sharing)
+# [Learning Experience Methodology](https://docs.google.com/presentation/d/1pYdHqfeKCkD6QbQJjOjmkhTnGoAdoWLNN01sDiTn7ME/edit?usp=sharing)
 
 ## Goal
 
