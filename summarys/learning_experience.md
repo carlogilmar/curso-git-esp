@@ -45,12 +45,11 @@ Describe the methodology behind this courses using visual thinking as the primar
   - Community member
   - Senior management
   - Education
-- Introduction to VCS `everyone`
-- Introduction to command line `everyone`
-- Introduction to GitHub `everyone`
-- Introduction to Git `everyone`
-- Introduction to Git Books `everyone`
+- Introduction to VCS `developers` `release manager` `community member` `senior management` `education`
+- Introduction to command line `developers` `release manager` `community member` `senior management` `education`
+- Introduction to GitHub `developers` `release manager` `community member` `senior management` `education`
+- Introduction to Git `developers` `release manager` `community member` `senior management` `education`
+- Introduction to Git Books `developers` `release manager` `community member` `senior management` `education`
 
-**TODO** Add more topics for design the complete roadmap
 
 
