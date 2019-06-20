@@ -1,4 +1,4 @@
-# Learning Git Introduction
+# [Learning Git with Visual Thinking Introduction](https://drive.google.com/drive/folders/1mOsxll7Kuyx7oQ-oxfMV0kgplu-Ge00X?usp=sharing) 
 
 ## Goal
 
