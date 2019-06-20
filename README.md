@@ -75,8 +75,6 @@ Git Basics
 10. Hooks
 11. Bisect
 
-### Releases
-
 ### Resources
 
 - [@frontendmasters Git in depth](https://frontendmasters.com/courses/git-in-depth/)
