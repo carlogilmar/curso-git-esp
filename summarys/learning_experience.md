@@ -36,20 +36,11 @@ Describe the methodology behind this courses using visual thinking as the primar
 - [x] Git as a VCS
 - [x] Goals behind use a VCS
 
-## Roadmap 
+## Roles 
 
-- Learning Experience Methodology
-- Main roles: 
-  - Developer
-  - Release manager
-  - Community member
-  - Senior management
-  - Education
-- Introduction to VCS `developers` `release manager` `community member` `senior management` `education`
-- Introduction to command line `developers` `release manager` `community member` `senior management` `education`
-- Introduction to GitHub `developers` `release manager` `community member` `senior management` `education`
-- Introduction to Git `developers` `release manager` `community member` `senior management` `education`
-- Introduction to Git Books `developers` `release manager` `community member` `senior management` `education`
-
-
+ - Developer
+ - Release manager
+ - Community member
+ - Senior management
+ - Education
 
