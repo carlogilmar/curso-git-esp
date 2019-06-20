@@ -40,12 +40,11 @@ Describe the methodology behind this courses using visual thinking as the primar
 
 - Learning Experience Methodology
 - Main roles: 
- - Developer
- - Release manager
- - Community member
- - Senior management
- - Education
- 
+  - Developer
+  - Release manager
+  - Community member
+  - Senior management
+  - Education
 - Introduction to VCS `everyone`
 - Introduction to command line `everyone`
 - Introduction to GitHub `everyone`
