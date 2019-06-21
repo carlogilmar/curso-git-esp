@@ -10,13 +10,18 @@ Resources:
 
 # Summary
 
+## About Learning Git
 - [x] [Learning Experience Methodology](https://github.com/carlogilmar/git-course/blob/master/summarys/learning_experience.md)
 - [x] [Audience Roadmap](https://docs.google.com/presentation/d/1TqOr9YuITQL9OJAV1_hXsrUbQYZcTk8KAcj_hpkGZzM/edit#slide=id.p)
 - [x] [Introduction to learning git with visual thinking](https://github.com/carlogilmar/git-course/blob/master/summarys/introduction.md)
-- [ ] Introduction to VCS
+
+## Basic git toolset 
 - [ ] Introduction to GitHub
+- [ ] Introduction to Markdown
 - [ ] Introduction to GitBooks
 - [ ] Introduction to the unix command line
+
+## Git Basics
 - [ ] Introduction to git
 - [ ] Install and setup git
 - [ ] How git works?
@@ -27,11 +32,15 @@ Resources:
   - File system
   - Files and directories
 - [ ] Basic workflow
+
+## Remote work 
 - [ ] Remote repositories
 - [ ] Remote repositories setup
 - [ ] Remote operations
 - [ ] Single workflow on local
 - [ ] Single workflow on GitHub
+
+## Workflows
 - [ ] Branching basics
 - [ ] Introduction to workflows
 - [ ] GitHub workflow
