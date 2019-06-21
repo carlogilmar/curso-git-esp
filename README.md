@@ -2,9 +2,10 @@
 
 ![](course.png)
 
-[Learning Experience Course Design Slides](https://docs.google.com/presentation/d/1pYdHqfeKCkD6QbQJjOjmkhTnGoAdoWLNN01sDiTn7ME/edit?usp=sharing)
-[Course Slides](https://drive.google.com/drive/folders/1mOsxll7Kuyx7oQ-oxfMV0kgplu-Ge00X?usp=sharing) 
-[Resources](https://github.com/carlogilmar/git-course/blob/master/summarys/resources.md)
+Resources:
+
+- [Slides](https://drive.google.com/drive/u/0/folders/1mOsxll7Kuyx7oQ-oxfMV0kgplu-Ge00X)
+- [Resources](https://github.com/carlogilmar/git-course/blob/master/summarys/resources.md)
 
 
 # Summary
