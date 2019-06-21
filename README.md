@@ -25,41 +25,14 @@
   - Navigation
   - File system
   - Files and directories
-
-
-## Identificar tópicos listados
-
-Git Basics
-
-1. Setup and installation
-- Installing git (linux, macos, windows)
-- Git Help
-- Configuring git
-
-2. Setting up a git repository
-- Git areas, how git works?
-- Initializing an empty repository
-- Adding git to an existing repository
-- Cloning an existing repository
-
-3. Basic workflow
-- Basic workflow (add, commit)
-- Tracking files
-- Viewing changes
-- Committing your changes
-- Setup git ignore files
-- Browsing project history
-- Commit History
-- Ignoring files
-
-4. Remote repositories
-5. Branching 
-6. Workflows
-- GitHub
-- BitBucket
-
-7. Submodules
-8. Rebasing
-9. Stashing
-10. Hooks
-11. Bisect
+- [ ] Basic workflow
+- [ ] Remote repositories
+- [ ] Remote repositories setup
+- [ ] Remote operations
+- [ ] Single workflow on local
+- [ ] Single workflow on GitHub
+- [ ] Branching basics
+- [ ] Introduction to workflows
+- [ ] GitHub workflow
+- [ ] Feature branch workflow
+- [ ] Git flow workflow
