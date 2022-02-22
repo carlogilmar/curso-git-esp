@@ -1,119 +1,93 @@
-# Git Course with Visual Thinking
+# ![](/assets/import.png)
 
-![](course.png)
+# Marzo 2019
 
-Resources:
+Para este taller de Git usaremos lo siguiente:
 
-- [Slides](https://drive.google.com/drive/u/0/folders/1mOsxll7Kuyx7oQ-oxfMV0kgplu-Ge00X)
-- [Resources](https://github.com/carlogilmar/git-course/blob/master/summarys/resources.md)
+* Versión reciente de git \(2.20.1\)
+* Cuenta de GitHub
+* Editor de texto
+* [GoHugo](https://gohugo.io/)
+* [Repositorio de trabajo](https://github.com/carlogilmar/dummy_blog_project)
 
+### Temario
 
-# Summary
+#### 1. Tooling para desarrollo de software
 
-## About Learning Git
+* Shell de \*Unix y tipos de shell
+* Tooling
+* Editor de texto
+* Instalación y configuración de Git
 
-- [x] [Learning Experience Methodology](https://github.com/carlogilmar/git-course/blob/master/summarys/learning_experience.md)
-- [x] [Audience Roadmap](https://docs.google.com/presentation/d/1TqOr9YuITQL9OJAV1_hXsrUbQYZcTk8KAcj_hpkGZzM/edit#slide=id.p)
-- [x] [Introduction to learning git with visual thinking](https://github.com/carlogilmar/git-course/blob/master/summarys/introduction.md)
+#### 2. Nociones básicas
 
-## Basic git toolset 
+* Sobre git...
+* Creación de un repositorio
+* DAG y Git Objects
+* Áreas de Git
+* Working Directory
+* Stage Area \( add \)
+* Local repository \( commit \)
+* Log de git
+* Resumen
 
-- [x] Introduction to Markdown
-  - What markdown is?
-  - Markdown editor
-  - Headers
-  - Headers
-  - Emphasis
-  - Lists
-  - Insert images
-  - Blockquotes
-  - Backslash escapes
-  - GitHub flavored markdown
-  - Tasks list
-  - Fenced code blocks
-  - Tables
-- [x] Introduction to GitBooks
-  - What GitBook is?
-  - How it works?
-  - Git books spaces
-  - Edit a document
-  - Share the online documentation
-  - Integrations
-  - Legacy version study case
-  - Publish a git book change
-  - Publish history
-  - Build a publish registry
-  - Documentation ready
-  - Git Book pipeline
-  - Publish history
-  - Git Book legacy
-  - Git Book
-- [ ] Introduction to GitHub
-  - What GitHub is?
-  - GitHub collaborative platform
-  - GitHub Repository
-  - Collaborative flow
-  - Collections
-  - Octoverse 2019
-- [ ] Introduction to Command Line
-  - The command line
-  - Shell prompt
-  - Simple commands
-  - File system tree
-  - Explore the file system
-  - Linux directories
-  - Manipulate files and directories
-  - User permissions
-  - Support commands
-- [ ] Introduction to Shells
-  - Your current shell
-  - Shells
-  - Zsh shell
-  - Zsh as default shell
-  - Oh my zsh!
-  - .zshrc
-  - git prompt
-  - Fish shell
-  - Fish shell installation
-  - Fish config
-  - Fish functions
-  - Git support
-- [ ] Introduction to Git
-  - Git GNU V2
-  - Git Trademark
-  - Documentation
-  - Git project overview
-  - Contributions
-  - Download git
-  - Git setup
-  - Git identity and editor
-  - Getting help
-  - Creating a git repository
-  - Recording changes
-  - LibGit2
+#### 3. Comandos prácticos
 
-## Git Basics
-- [ ] Introduction to git
-- [ ] Install and setup git
-- [ ] How git works?
-- [ ] Git repository
-- [ ] Command Line Basics
-  - Setup
-  - Navigation
-  - File system
-  - Files and directories
-- [ ] Basic workflow
+* git status
+* git diff
+* git checkout
+* git stash
+* git reset
+* Reescribir último commit
+* Ignorar archivos
 
-## Remote work 
-- [ ] Remote repositories
-- [ ] Remote repositories setup
-- [ ] Remote operations
-- [ ] Single workflow on local
-- [ ] Single workflow on GitHub
+#### 4. Manipulación de un repositorio
 
-## Workflows
-- [ ] Branching basics
-- [ ] Introduction to workflows
-- [ ] GitHub workflow
-- [ ] Feature branch workflow
-- [ ] Git flow workflow
+* Situarse en un commit previo
+* Búsquedas sobre el log
+* git show
+* git blame
+
+#### 5. Repositorios Remotos: GitHub
+
+* Sobre GitHub
+* Áreas de git
+* Sincronizar un repositorio local en un repositorio remoto
+* Git para repositorios remotos
+* Clonar repositorios
+* Fork a repositorios remotos
+* Sub-módulos
+
+#### 6. Branching
+
+* Crear un branch
+* Operaciones sobre un branch
+* git merge
+* Abortar operaciones
+
+#### 7. Git Workflows
+
+* Single flow
+* GitHub Workflow
+* Feature branch
+* Git flow
+
+#### 8. Reestructuración de un repositorio
+
+* Rebase de branches
+* Rebase por commits
+* Cherry-pick
+* Revert
+* Reflog
+
+#### 9. Git Tooling
+
+#### 10. Repositorios Remotos Open Source
+
+#### 11. Automatización
+
+* git bisect
+* git hooks
+
+![](/assets/git1.png)
+
