@@ -1,5 +1,7 @@
 # ![](/assets/import.png)
 
+Puedes ver la versión online aquí: [carlogilmar.gitbooks.io/git-course/content/](carlogilmar.gitbooks.io/git-course/content/)
+
 # Marzo 2019
 
 Para este taller de Git usaremos lo siguiente:
